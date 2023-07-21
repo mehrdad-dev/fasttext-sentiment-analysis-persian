@@ -12,7 +12,7 @@ There are two .csv files:
 | Coloumn  |  Description |
 |---|---|
 | comment  |  Opinion of user |
-|  sentiment  |  label (Positive, Negative, Neutral) |
+|  sentiment  |  Label (Positive, Negative, Neutral) |
 
 
 ## Code
