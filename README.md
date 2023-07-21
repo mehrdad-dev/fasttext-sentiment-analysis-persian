@@ -1,4 +1,4 @@
-# Fasttext Sentiment Analysis for Persian Comments
+# FastText Sentiment Analysis for Persian Comments
 
 
 
